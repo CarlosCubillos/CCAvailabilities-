@@ -1,0 +1,20 @@
+C:\Users\Carlos Cubillos\source\repos\AvailabilityUI\AvailabilityUI\bin\Debug\netcoreapp1.1\AvailabilityUI.deps.json
+C:\Users\Carlos Cubillos\source\repos\AvailabilityUI\AvailabilityUI\bin\Debug\netcoreapp1.1\AvailabilityUI.runtimeconfig.json
+C:\Users\Carlos Cubillos\source\repos\AvailabilityUI\AvailabilityUI\bin\Debug\netcoreapp1.1\AvailabilityUI.runtimeconfig.dev.json
+C:\Users\Carlos Cubillos\source\repos\AvailabilityUI\AvailabilityUI\bin\Debug\netcoreapp1.1\AvailabilityUI.dll
+C:\Users\Carlos Cubillos\source\repos\AvailabilityUI\AvailabilityUI\bin\Debug\netcoreapp1.1\AvailabilityUI.pdb
+C:\Users\Carlos Cubillos\source\repos\AvailabilityUI\AvailabilityUI\obj\Debug\netcoreapp1.1\AvailabilityUI.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Cubillos\source\repos\AvailabilityUI\AvailabilityUI\obj\Debug\netcoreapp1.1\AvailabilityUI.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Cubillos\source\repos\AvailabilityUI\AvailabilityUI\obj\Debug\netcoreapp1.1\AvailabilityUI.AssemblyInfo.cs
+C:\Users\Carlos Cubillos\source\repos\AvailabilityUI\AvailabilityUI\obj\Debug\netcoreapp1.1\AvailabilityUI.dll
+C:\Users\Carlos Cubillos\source\repos\AvailabilityUI\AvailabilityUI\obj\Debug\netcoreapp1.1\AvailabilityUI.pdb
+D:\Users\Carlos Cubillos\Documents\AvailabilitiesTest\VS Solution\AvailabilityUI\AvailabilityUI\bin\Debug\netcoreapp1.1\AvailabilityUI.deps.json
+D:\Users\Carlos Cubillos\Documents\AvailabilitiesTest\VS Solution\AvailabilityUI\AvailabilityUI\bin\Debug\netcoreapp1.1\AvailabilityUI.runtimeconfig.json
+D:\Users\Carlos Cubillos\Documents\AvailabilitiesTest\VS Solution\AvailabilityUI\AvailabilityUI\bin\Debug\netcoreapp1.1\AvailabilityUI.runtimeconfig.dev.json
+D:\Users\Carlos Cubillos\Documents\AvailabilitiesTest\VS Solution\AvailabilityUI\AvailabilityUI\bin\Debug\netcoreapp1.1\AvailabilityUI.dll
+D:\Users\Carlos Cubillos\Documents\AvailabilitiesTest\VS Solution\AvailabilityUI\AvailabilityUI\bin\Debug\netcoreapp1.1\AvailabilityUI.pdb
+D:\Users\Carlos Cubillos\Documents\AvailabilitiesTest\VS Solution\AvailabilityUI\AvailabilityUI\obj\Debug\netcoreapp1.1\AvailabilityUI.csprojResolveAssemblyReference.cache
+D:\Users\Carlos Cubillos\Documents\AvailabilitiesTest\VS Solution\AvailabilityUI\AvailabilityUI\obj\Debug\netcoreapp1.1\AvailabilityUI.csproj.CoreCompileInputs.cache
+D:\Users\Carlos Cubillos\Documents\AvailabilitiesTest\VS Solution\AvailabilityUI\AvailabilityUI\obj\Debug\netcoreapp1.1\AvailabilityUI.AssemblyInfo.cs
+D:\Users\Carlos Cubillos\Documents\AvailabilitiesTest\VS Solution\AvailabilityUI\AvailabilityUI\obj\Debug\netcoreapp1.1\AvailabilityUI.dll
+D:\Users\Carlos Cubillos\Documents\AvailabilitiesTest\VS Solution\AvailabilityUI\AvailabilityUI\obj\Debug\netcoreapp1.1\AvailabilityUI.pdb
